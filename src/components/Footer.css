@@ -1,0 +1,14 @@
+.bg {
+  background-color: hsl(257, 27%, 26%);
+}
+.hero {
+  background-color: hsl(260, 8%, 14%);
+}
+.second{
+  
+  grid-template-columns: 520px auto auto auto 300px;
+}
+img:hover{
+ fill:hsl(180, 66%, 49%) ;
+ 
+}
